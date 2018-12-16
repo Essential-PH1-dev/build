@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+	<project namee="https://github.com/LineageOS/android_packages_resources_devicesettings.git" path="packages/resources/devicesettings" revision="lineage-15.1"/>
+
 	<project name="mdigiacomi/android_device_essential_mata" path="device/essential/mata" />
 	<project name="mdigiacomi/android_kernel_essential_msm8998" path="kernel/essential/msm8998" />
 	<project name="mdigiacomi/proprietary_vendor_essential" path="vendor/essential" />
