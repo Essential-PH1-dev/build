@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project name="mdigiacomi/android_device_essential_mata" path="device/essential/mata" />
+	<project name="mdigiacomi/android_kernel_essential_msm8998" path="kernel/essential/msm8998" />
+	<project name="mdigiacomi/proprietary_vendor_essential" path="vendor/essential" />
+</manifest>
