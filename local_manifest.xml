@@ -2,7 +2,7 @@
 <manifest>
 	<project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" revision="lineage-15.1"/>
 
-	<project name="mdigiacomi/android_device_essential_mata" path="device/essential/mata" revision="lineage-15.1"/>
-	<project name="mdigiacomi/android_kernel_essential_msm8998" path="kernel/essential/msm8998" revision="lineage-15.1"/>
-	<project name="mdigiacomi/proprietary_vendor_essential" path="vendor/essential" revision="lineage-15.1"/>
+	<project name="LineageOS/android_device_essential_mata" path="device/essential/mata" revision="lineage-15.1"/>
+	<project name="LineageOS/android_kernel_essential_msm8998" path="kernel/essential/msm8998" revision="lineage-15.1"/>
+	<project name="TheMuppets/proprietary_vendor_essential" path="vendor/essential" revision="lineage-15.1"/>
 </manifest>
